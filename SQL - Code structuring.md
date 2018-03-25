@@ -1,7 +1,7 @@
 #SQL coding best practices
 
 <h3>1.	Header – </h3>
-*Must include details of Author, code creation and modification date, purpose of code(details of project and analysis performed via the code)
+-Must include details of Author, code creation and modification date, purpose of code(details of project and analysis performed via the code)
 
 <h3>2.	Input checks – </h3>
   a.	List all the tables that shall be used for the analysis
